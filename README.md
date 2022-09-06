@@ -1,2 +1,2 @@
 # Introdução à Programação com Python
-Livro escrito por Nilo Ney Countinho Menezes
+Exercícios da 3ª edição do livro escrito por Nilo Ney Countinho Menezes.
